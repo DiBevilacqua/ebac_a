@@ -1,3 +1,3 @@
-# ebac_a
+# ebac-a
 
 ## Sorry ebac
